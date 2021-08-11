@@ -1,6 +1,6 @@
 # WCAG-EM Report Tool
 
-<a href="https://wcag-em-report-tool-2021-redesign.netlify.app/"><img width="400"  alt="" src="https://user-images.githubusercontent.com/178782/114709430-d86bd700-9d2c-11eb-8508-c628ef6614d4.png"></a>
+<a href="https://wcag-em-report-tool-2021-redesign.netlify.app/"><img width="300"  alt="" src="https://user-images.githubusercontent.com/178782/114709430-d86bd700-9d2c-11eb-8508-c628ef6614d4.png"></a>
 
 [Preview](https://wcag-em-report-tool-2021-redesign.netlify.app/) 
 
